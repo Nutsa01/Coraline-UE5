@@ -1,15 +1,19 @@
 # Jeu inspiré de Coraline - Unreal Engine 5
 
-Un jeu d’exploration en 3D inspiré de Coraline, développé avec Unreal Engine 5 et principalement programmé en Blueprints. Le joueur explore une maison, interagit avec des objets et des personnages, prépare des recettes et rencontre un monstre qui peut le poursuivre.
+Un jeu d'exploration en 3D inspiré de Coraline, développé avec Unreal Engine 5 et principalement programmé en Blueprints. Le joueur explore une maison, interagit avec des objets et des personnages, prépare des recettes et rencontre un monstre qui peut le poursuivre.
 
-## Développement
+## Fonctionnalités
 
-J’ai programmé les déplacements du personnage, les interactions avec les portes et les objets, les menus et le comportement du monstre. J’ai aussi développé l’interface de cuisine, avec la sélection des ingrédients et la gestion des recettes.
-
-Ce projet m’a permis de travailler sur plusieurs aspects d’un jeu, des commandes du joueur aux animations, en passant par les interfaces et les sons.
+- Exploration de la vraie maison et de l'autre maison
+- Interactions avec les portes, les clés, les miroirs et les objets
+- Dialogues avec les personnages, avec leur portrait à l'écran
+- Interface de cuisine : choix des ingrédients, recettes et réglage du four
+- Un monstre qui patrouille, poursuit le joueur et l'attaque
+- Menu principal, options sauvegardées et écran des commandes
+- Musiques et sons d'ambiance différents selon la maison
 
 **Outils utilisés :** Unreal Engine 5.7, Blueprints et UMG.
 
-## Développeur
+## Lancer le projet
 
-**Omar Lahia - Nutsa**
+Il faut cloner le dépôt avec Git LFS installé, puis ouvrir `CarolineJeu.uproject` avec Unreal Engine 5.7.
